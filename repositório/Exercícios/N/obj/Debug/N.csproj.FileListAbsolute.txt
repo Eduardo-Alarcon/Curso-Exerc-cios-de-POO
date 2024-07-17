@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\Exercícios\N\obj\Debug\N.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercícios\N\obj\Debug\N.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercícios\N\bin\Debug\N.exe.config
+C:\Users\Eduardo\source\repos\Exercícios\N\bin\Debug\N.exe
+C:\Users\Eduardo\source\repos\Exercícios\N\bin\Debug\N.pdb
+C:\Users\Eduardo\source\repos\Exercícios\N\obj\Debug\N.exe
+C:\Users\Eduardo\source\repos\Exercícios\N\obj\Debug\N.pdb

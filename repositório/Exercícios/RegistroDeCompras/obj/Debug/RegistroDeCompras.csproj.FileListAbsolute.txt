@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\bin\Debug\RegistroDeCompras.exe.config
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\bin\Debug\RegistroDeCompras.exe
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\bin\Debug\RegistroDeCompras.pdb
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\obj\Debug\RegistroDeCompras.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\obj\Debug\RegistroDeCompras.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\obj\Debug\RegistroDeCompras.exe
+C:\Users\Eduardo\source\repos\Exercícios\RegistroDeCompras\obj\Debug\RegistroDeCompras.pdb

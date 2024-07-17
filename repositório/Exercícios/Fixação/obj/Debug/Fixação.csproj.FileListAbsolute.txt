@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\bin\Debug\Fixação.exe.config
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\bin\Debug\Fixação.exe
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\bin\Debug\Fixação.pdb
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\obj\Debug\Fixação.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\obj\Debug\Fixação.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\obj\Debug\Fixação.exe
+C:\Users\Eduardo\source\repos\Exercícios\Fixação\obj\Debug\Fixação.pdb

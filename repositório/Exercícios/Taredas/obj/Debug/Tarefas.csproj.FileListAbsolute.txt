@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\bin\Debug\Taredas.exe.config
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\bin\Debug\Taredas.exe
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\bin\Debug\Taredas.pdb
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\obj\Debug\Tarefas.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\obj\Debug\Tarefas.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\obj\Debug\Taredas.exe
+C:\Users\Eduardo\source\repos\Exercícios\Taredas\obj\Debug\Taredas.pdb

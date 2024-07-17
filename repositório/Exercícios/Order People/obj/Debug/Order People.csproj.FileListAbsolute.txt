@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\bin\Debug\Order People.exe.config
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\bin\Debug\Order People.exe
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\bin\Debug\Order People.pdb
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\obj\Debug\Order People.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\obj\Debug\Order People.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\obj\Debug\Order People.exe
+C:\Users\Eduardo\source\repositório\Exercícios\Order People\obj\Debug\Order People.pdb

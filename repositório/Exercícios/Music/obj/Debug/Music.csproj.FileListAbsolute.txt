@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repos\Exercícios\Music\bin\Debug\Music.exe.config
+C:\Users\Eduardo\source\repos\Exercícios\Music\bin\Debug\Music.exe
+C:\Users\Eduardo\source\repos\Exercícios\Music\bin\Debug\Music.pdb
+C:\Users\Eduardo\source\repos\Exercícios\Music\obj\Debug\Music.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repos\Exercícios\Music\obj\Debug\Music.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Exercícios\Music\obj\Debug\Music.exe
+C:\Users\Eduardo\source\repos\Exercícios\Music\obj\Debug\Music.pdb

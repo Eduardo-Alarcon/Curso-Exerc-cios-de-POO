@@ -1,0 +1,7 @@
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\obj\Debug\Payers.csproj.AssemblyReference.cache
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\obj\Debug\Payers.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\bin\Debug\Payers.exe.config
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\bin\Debug\Payers.exe
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\bin\Debug\Payers.pdb
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\obj\Debug\Payers.exe
+C:\Users\Eduardo\source\repositório\Exercícios\Payers\obj\Debug\Payers.pdb
